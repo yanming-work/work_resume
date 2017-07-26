@@ -18,7 +18,7 @@ fieldset, img {
     outline: 0;
 }
 address, caption, cite, code, dfn,
-em, strong, th, var, optgroup {
+em, th, var, optgroup {
     font-style: normal;
     font-weight: normal;
 }
